@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage[margin=5em]{geometry}
+
+\setlength\parindent{0em}
+\setlength\parskip{1em}
+
+\title{${1:$TM_FILENAME}}
+
+\author{
+	Hendrik Werner s4549775
+}
+
+\begin{document}
+\maketitle
+
+$2
+
+\end{document}
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>
