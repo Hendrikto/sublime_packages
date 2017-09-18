@@ -1,5 +1,6 @@
 *
 
 !.gitignore
+!/Preferences.sublime-settings
 !/*.sublime-build
 !/*.sublime-snippet
