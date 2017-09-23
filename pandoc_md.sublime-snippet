@@ -3,6 +3,7 @@
 ---
 title: ${1:$TM_FILENAME}
 author: Hendrik Werner
+fontsize: 12pt
 geometry: margin=5em
 ---
 
