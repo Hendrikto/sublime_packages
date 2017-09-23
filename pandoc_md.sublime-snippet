@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+---
+title: ${1:$TM_FILENAME}
+author: Hendrik Werner
+geometry: margin=5em
+---
+
+$2
+]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
