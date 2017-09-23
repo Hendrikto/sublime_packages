@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "pandoc -o $file_base_name.pdf $file",
+	"selector": "text.html.markdown"
+}
