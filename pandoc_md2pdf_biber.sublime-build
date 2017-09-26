@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "pandoc --biblatex --standalone -o $file_base_name.tex $file && pdflatex $file_base_name.tex && biber $file_base_name && pdflatex $file_base_name.tex",
+	"selector": "text.html.markdown"
+}
