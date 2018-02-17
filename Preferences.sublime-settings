@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns": ["__pycache__"],
 	"font_face": "Source Code Pro",
 	"font_size": 10,
 	"theme": "Adaptive.sublime-theme",
