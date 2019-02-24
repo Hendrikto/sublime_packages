@@ -1,4 +1,5 @@
 {
 	"shell_cmd": "pdflatex -shell-escape $file",
+	"file_patterns": ["*.tex"],
 	"selector": "text.tex.latex",
 }

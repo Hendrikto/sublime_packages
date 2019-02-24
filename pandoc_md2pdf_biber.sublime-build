@@ -1,4 +1,5 @@
 {
 	"shell_cmd": "pandoc --biblatex --standalone -o $file_base_name.tex $file && pdflatex -shell-escape $file_base_name.tex && biber $file_base_name && pdflatex $file_base_name.tex",
+	"file_patterns": ["*.md"],
 	"selector": "text.html.markdown"
 }
