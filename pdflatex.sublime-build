@@ -1,3 +1,4 @@
 {
-	"shell_cmd": "pdflatex -shell-escape $file"
+	"shell_cmd": "pdflatex -shell-escape $file",
+	"selector": "text.tex.latex",
 }
