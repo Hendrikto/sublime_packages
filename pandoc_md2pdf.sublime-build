@@ -1,5 +1,5 @@
 {
 	"shell_cmd": "pandoc -o $file_base_name.pdf $file",
 	"file_patterns": ["*.md"],
-	"selector": "text.html.markdown"
+	"selector": "text.html.markdown",
 }
