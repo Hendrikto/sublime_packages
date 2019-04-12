@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$\begin{aligned}
+	${1}
+\end{aligned}\$
+]]></content>
+	<tabTrigger>aligned</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>
