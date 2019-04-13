@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+\documentclass[12pt]{beamer}
+
+\beamertemplatenavigationsymbolsempty
+\setbeamertemplate{footline}[page number]
+
+\title{${1:$TM_FILENAME}}
+
+\author{
+	Hendrik Werner s4549775
+}
+
+\begin{document}
+\maketitle
+
+$2
+
+\end{document}
+]]></content>
+	<tabTrigger>beamer</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -23,6 +23,6 @@ $2
 
 \end{document}
 ]]></content>
-	<tabTrigger>doc</tabTrigger>
+	<tabTrigger>article</tabTrigger>
 	<scope>text.tex.latex</scope>
 </snippet>
