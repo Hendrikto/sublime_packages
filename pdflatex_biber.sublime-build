@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "pdflatex -shell-escape $file_base_name.tex && biber $file_base_name && pdflatex $file_base_name.tex",
+	"file_patterns": ["*.tex"],
+	"selector": "text.tex.latex",
+}
