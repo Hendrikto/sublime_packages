@@ -4,3 +4,4 @@
 !/Preferences.sublime-settings
 !/*.sublime-build
 !/*.sublime-snippet
+!/*.sublime-syntax
