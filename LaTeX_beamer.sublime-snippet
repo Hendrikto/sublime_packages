@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\documentclass[12pt]{beamer}
+\documentclass{beamer}
 
 \beamertemplatenavigationsymbolsempty
 \setbeamertemplate{footline}[page number]
