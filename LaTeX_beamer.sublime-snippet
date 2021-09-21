@@ -5,6 +5,11 @@
 \beamertemplatenavigationsymbolsempty
 \setbeamertemplate{footline}[page number]
 
+\setbeamersize{
+	text margin left=1em,
+	text margin right=1em,
+}
+
 \title{${1:$TM_FILENAME}}
 
 \author{Hendrik Werner s4549775}
