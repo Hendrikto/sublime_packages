@@ -15,6 +15,10 @@
 	"font_face": "Source Code Pro",
 	"font_size": 10,
 	"hardware_acceleration": "opengl",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 }
