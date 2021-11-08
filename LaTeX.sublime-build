@@ -10,5 +10,9 @@
 			"name": "biber",
 			"shell_cmd": "pdflatex -shell-escape $file_name && biber $file_base_name && pdflatex $file_name",
 		},
+		{
+			"name": "biber + glossaries",
+			"shell_cmd": "pdflatex -shell-escape $file_name && biber $file_base_name && makeglossaries $file_base_name && pdflatex $file_name",
+		}
 	]
 }
