@@ -1,0 +1,14 @@
+{
+	"file_patterns": ["*.tex"],
+	"selector": "text.tex.latex",
+	"variants": [
+		{
+			"name": "simple",
+			"shell_cmd": "pdflatex -shell-escape $file_name",
+		},
+		{
+			"name": "biber",
+			"shell_cmd": "pdflatex -shell-escape $file_name && biber $file_base_name && pdflatex $file_name",
+		},
+	]
+}
