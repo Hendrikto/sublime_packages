@@ -19,6 +19,7 @@
 	[
 		"Vintage",
 	],
+	"show_encoding": true,
 	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 }
