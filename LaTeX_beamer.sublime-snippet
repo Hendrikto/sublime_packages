@@ -12,10 +12,11 @@
 
 \title{${1:$TM_FILENAME}}
 
-\author{Hendrik Werner}
+\newcommand{\theauthor}{Hendrik Werner}
+\author{\theauthor}
 
 \makeatletter
-\usepackage[pdfauthor={\@author}, pdftitle={\@title}]{hyperref}
+\hypersetup{pdfauthor={\theauthor}, pdftitle={\@title}}
 \makeatother
 
 \begin{document}
