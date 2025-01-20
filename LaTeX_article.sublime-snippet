@@ -1,5 +1,7 @@
 <snippet>
 	<content><![CDATA[
+\pdfminorversion=7
+
 \documentclass[12pt]{article}
 
 \usepackage{amsmath}

@@ -1,5 +1,7 @@
 <snippet>
 	<content><![CDATA[
+\pdfminorversion=7
+
 \documentclass{beamer}
 
 \beamertemplatenavigationsymbolsempty
